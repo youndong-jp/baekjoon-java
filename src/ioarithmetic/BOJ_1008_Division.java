@@ -1,4 +1,4 @@
-package calculation;
+package ioarithmetic;
 
 import java.util.Scanner;
 public class BOJ_1008_Division {

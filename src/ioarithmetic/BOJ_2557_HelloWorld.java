@@ -1,4 +1,4 @@
-package calculation;
+package ioarithmetic;
 
 public class BOJ_2557_HelloWorld {
     public static void main(String[] args) {

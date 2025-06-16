@@ -1,4 +1,4 @@
-package calculation;
+package ioarithmetic;
 
 import java.util.Scanner;
 public class BOJ_10998_Multiplication {
