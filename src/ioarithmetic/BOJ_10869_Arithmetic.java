@@ -1,5 +1,7 @@
+package ioarithmetic;
+
 import java.util.Scanner;
-public class calculate{
+public class Calculate {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

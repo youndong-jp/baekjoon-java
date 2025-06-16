@@ -1,5 +1,7 @@
+package ioarithmetic;
+
 import java.util.Scanner;
-public class in_output {
+public class InputOutput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();

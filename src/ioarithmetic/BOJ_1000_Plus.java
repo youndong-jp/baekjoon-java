@@ -1,6 +1,8 @@
+package calculation;
+
 import java.util.Scanner;
 
-public class plus {
+public class BOJ_1000_Plus {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
