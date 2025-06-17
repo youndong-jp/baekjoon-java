@@ -6,10 +6,10 @@ public class BOJ_1330_CompareNumbers {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
         if(a == b) {
             System.out.println("==");
-            return;
-        }if (a>b){
+        }else if (a>b){
             System.out.println(">");
         }else  {
             System.out.println("<");
