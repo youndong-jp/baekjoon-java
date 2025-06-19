@@ -7,15 +7,10 @@ public class BOJ_2525_OvenClock {
         int h = sc.nextInt();
         int m = sc.nextInt();
         int pt = sc.nextInt();
-        m += (pt%60);
-        h += (pt/60);
-        if(m>=60){
-            m-=60;
-            h+=1;
-        }if(h>23){
-            h-=24;
-        }
-        System.out.println(h+" "+m);
+        int totalMin = h * 60 + m + pt;
+        h = (totalMin / 60) % 24;
+        m = totalMin % 60;
+        System.out.println(h + " " + m);
 
     }
 }
