@@ -34,6 +34,11 @@ Java로 작성한 사칙연산 프로그램 모음입니다.
 | `BOJ_8393_Sum`             | 간단한 테스트 케이스 반복 처리 능력 테스트                                                                    |
 | `BOJ_25304_ReceiptCheck`   | For 반복문 연산로직 구성 및 반복문 + 조건문 사용 범위 에 따른 long 사용                                              |
 | `BOJ_25314_LongCoding`     | 문자열을 추가 String “” 사용과 문자열 처리감각만 있으면 해결 가능한 문제                                               |
+| `BOJ_15552_FastAPlusB`     | 기본 Scanner가 아닌 BufferedReader 사용 경험 빠른 입력 처리 → 온라인 저지 환경의 I/O 속도 제한 이해                                            |
+| `BOJ_15552_FastAPlusB2`    | A+B의 스캐너 판 문자열 출력만 복잡해짐|
+| `BOJ_15552_FastAPlusB3`    | A+B-7 보다 출혁하는 문자열이 더 복잡해짐 
+|
+
 
 
 
