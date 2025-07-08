@@ -56,8 +56,11 @@ Java로 작성한 사칙연산 프로그램 모음입니다.
 | `BOJ_9086_FirstLastChar`           | 반복문 속에서 문자열의 특정 인덱스에 접근하는 기본 로직 훈련 문자열 길이가 1인 경우에도 잘 동작하도록 예외 상황을 고려                                            |
 | `BOJ_11654_AsciiCode`              | char 타입과 int 타입의 관계 이해, 문자 → 아스키 코드(정수) 변환에 대한 이해 ((int) 문자), Java에서 문자를 입력받을 때 Scanner.next().charAt(0)의 패턴 학습 |
 | `BOJ_11720_DigiSumCalculator`      | 문자열로 입력된 숫자를 하나씩 분리하여 합산하는 연습. char → int 변환 (char - '0')개념을 익히기 위한 문제.                                         |
-| `BOJ_10809_AlphaberPositionFinder` | 알파벳 a~z의 최초 등장 위치를 기록하는 배열 활용 문제. char - 'a'로 인덱스 매핑, Arrays.fill()로 초기화|
-| `BOJ_2675_StringRepeater`          |각 문자를 정해진 횟수만큼 반복 출력. 중첩 반복문과 문자 처리, 그리고 입출력 형식 조작을 익히게 하기 위한 기본적인 문자열 처리 문제|
+| `BOJ_10809_AlphaberPositionFinder` | 알파벳 a~z의 최초 등장 위치를 기록하는 배열 활용 문제. char - 'a'로 인덱스 매핑, Arrays.fill()로 초기화                                        |
+| `BOJ_2675_StringRepeater`          | 각 문자를 정해진 횟수만큼 반복 출력. 중첩 반복문과 문자 처리, 그리고 입출력 형식 조작을 익히게 하기 위한 기본적인 문자열 처리 문제                                    |
+| `BOJ_1152_WordCount`               | Trim으로 앞뒤 공백 제거 .split \\s+로 여러 공백도 한번에 나눔 입력이 공백으로 시작하거나 끝나는 경우도 고려하는 문자열 전처리 실력 평가                            |
+| `BOJ_2908_ReverscCompare`          | StringBuilder.reverse() 또는 수학적으로 자리수 뒤집기 능력 평가 int ↔ String 변환 능력 및 비교 로직 구현                                    |
+| `BOJ_11720_DialTimeCalc`           | 조건문, 반복문, 또는 배열/맵 자료구조를 활용                                                                                      |
 
 
 
