@@ -64,7 +64,7 @@ Java로 작성한 사칙연산 프로그램 모음입니다.
 | `BOJ_2675_StringRepeater`          | 각 문자를 정해진 횟수만큼 반복 출력. 중첩 반복문과 문자 처리, 그리고 입출력 형식 조작을 익히게 하기 위한 기본적인 문자열 처리 문제                                    |
 | `BOJ_1152_WordCount`               | Trim으로 앞뒤 공백 제거 .split \\s+로 여러 공백도 한번에 나눔 입력이 공백으로 시작하거나 끝나는 경우도 고려하는 문자열 전처리 실력 평가                            |
 | `BOJ_2908_ReverscCompare`          | StringBuilder.reverse() 또는 수학적으로 자리수 뒤집기 능력 평가 int ↔ String 변환 능력 및 비교 로직 구현                                    |
-| `BOJ_11720_DialTimeCalc`           | 조건문, 반복문, 또는 배열/맵 자료구조를 활용                                                                                      |
+| `BOJ_5622_DialTimeCalc`            | 조건문, 반복문, 또는 배열/맵 자료구조를 활용                                                                                      |
 
 
 
