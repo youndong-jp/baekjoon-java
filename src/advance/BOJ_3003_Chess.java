@@ -1,4 +1,4 @@
-package string;
+package advance;
 import java.util.Scanner;
 
 public class BOJ_3003_Chess {

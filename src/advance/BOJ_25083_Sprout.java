@@ -1,4 +1,4 @@
-package string;
+package advance;
 
 public class BOJ_25083_Sprout {
     public static void main(String[] args) {
